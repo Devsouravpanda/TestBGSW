@@ -1,18 +1,13 @@
-#
-# pattern:
-#
-# file/directory    user
-#
+### PATTERN ##
 
-### Based on Extensions ###
-*.py    @Sonika
-*.js    @Siva
+# file/directory    user
+
+### users have the rights to review the pull request ###
 
 ### Based on Folder ###
-Python/   @jawahargit
-SAP_Fiori/    @sonikachauhan
 
-### Based on Specific files inside a Folder ###
-Python/*.py    @Rakesh
-Python/*.md   @Dev
-
+Python/   @Devsouravpanda
+SAP Fiori/    @jawahargit
+SAP ABAP/   @chandeep2013@gmail.com
+SAP BTP/    @chandeep2013@gmail.com
+Java/   @jawahargit
