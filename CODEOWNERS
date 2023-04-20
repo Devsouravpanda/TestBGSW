@@ -1,1 +1,18 @@
-A
+#
+# pattern:
+#
+# file/directory    user
+#
+
+### Based on Extensions ###
+*.py    @Sonika
+*.js    @Siva
+
+### Based on Folder ###
+Python/   @jawahargit
+SAP_Fiori/    @sonikachauhan
+
+### Based on Specific files inside a Folder ###
+Python/*.py    @Rakesh
+Python/*.md   @Dev
+
